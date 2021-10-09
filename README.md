@@ -1,6 +1,7 @@
 # w9d3-weather-api
 
-[🔗 Slides](https://techtalentsouth.slides.com/ttscurriculum/open-weather-api-java?token=wsT0wXR_)
+[🔗 Slides](https://techtalentsouth.slides.com/ttscurriculum/open-weather-api-java?token=wsT0wXR_)  
+[🔗 Spring config](https://start.spring.io/#!type=maven-project&language=java&platformVersion=2.5.5&packaging=jar&jvmVersion=11&groupId=com.tts&artifactId=w9d3-weather-app&name=w9d3-weather-app&description=Weather%20app%20built%20on%20Open%20Weather%20Map%20API&packageName=com.tts.w9d3-weather-app&dependencies=devtools,h2,data-jpa,lombok,thymeleaf,web)
 
 ## Requirements
 
