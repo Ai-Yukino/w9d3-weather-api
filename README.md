@@ -21,3 +21,13 @@ Modify the app so that it displays a list of the 10 most recent searches. Here i
     9. In the html page, add code to display the recent searches in a table.
 
 Use the weather description in the API response to dynamically change the background on the page. You will have to get images from unsplash.com for each possible weather scenario.
+
+## Notes
+
+❔: What is `th:action="@{/}"` doing in `index.html`?  
+🅰: It sets the parent `form` tag's `action` attribute to `"/"`.
+
+📚 Thymeleaf documentation:  
+[🔗5.2 Setting value to specific attributes](https://www.thymeleaf.org/doc/tutorials/3.0/usingthymeleaf.html#setting-value-to-specific-attributes)  
+📚 MDN:  
+[🔗 Action attribute on forms](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/form)
